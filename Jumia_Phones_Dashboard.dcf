@@ -1,0 +1,13 @@
+name: Jumia_Phones_Dashboard
+title: Jumia_Phones_Dashboard
+username:
+account: danielkilemi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7862962
+bundleId: 6626894
+url: https://danielkilemi.shinyapps.io/Jumia_Phones_Dashboard/
+when: 1670848979.43643
+lastSyncTime: 1670848979.43643
+asMultiple: FALSE
+asStatic: FALSE
